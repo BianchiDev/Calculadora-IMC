@@ -1,4 +1,4 @@
-# Calculadora IMC#
+# Calculadora IMC
 
 Projeto para calcular o íncide de massa corporal, usando HTML, Css e JavaScript
 <hr>
